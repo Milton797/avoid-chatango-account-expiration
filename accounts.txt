@@ -1,0 +1,22 @@
+user1
+user1@gmail.com
+password1
+
+user2
+user2@gmail.com
+password2
+Some note here
+
+user3
+user3@gmail.com
+password3
+Some another note here
+with multiple lines
+
+user4
+password4
+
+JUSTIFYOUFORGOTURPASSWORDANDEMAIL
+
+user5
+password5
